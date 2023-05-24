@@ -1,0 +1,19 @@
+﻿Please complete the following questions upon completion of the solution to the problem above.
+1. What did you find challenging about this problem?
+   The most challenging aspect of this problem was determining the correct approach to solve it efficiently. 
+   The problem is a variation of the 0/1 Knapsack problem, which can be solved using dynamic programming. 
+   Understanding and implementing the dynamic programming solution required careful consideration of the 
+   item weights, values, and the constraints of the knapsack's maximum weight. 
+   Figuring out the optimal way to construct and fill the dynamic programming table was the key challenge.
+
+
+2. What design/development principles/patterns did you use in your solution?
+   In this solution, I followed the principles of object-oriented programming (OOP) by creating appropriate 
+   classes and encapsulating the data and behavior related to the problem domain. 
+   The Item class represents the items in the list, and the KnapsackProblemSolver class encapsulates 
+   the algorithm to solve the knapsack problem. Additionally, I used the dynamic programming approach, 
+   which is a common technique for solving optimization problems like the knapsack problem efficiently.
+
+3. How long did it take you to complete the solution?
+   It took me around 5-6 hours. This includes understanding the problem, designing the solution, 
+   implementing the code, and verifying its correctness with unit tests.

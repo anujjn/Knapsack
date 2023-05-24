@@ -1,0 +1,16 @@
+1. After looking at Warewolf, what skills have you got that you think would help with the
+development of the application?
+Based on my examination of the Warewolf application, I believe my skills and experience in software development 
+and integration would be valuable for its development. Some of the skills I can bring to the table include:
+- Proficiency in programming languages: I have a strong command of languages such as C#, JavaScript, and SQL, 
+  which are commonly used in integration and automation development.
+
+- Understanding of integration concepts: I have a solid understanding of concepts like message queues, REST APIs, 
+  data transformation, and service orchestration
+
+2. Why do you want to work on this product?
+  It offers the opportunity to work on integration and automation solutions, which can be intellectually stimulating and challenging.
+
+3. What do you not like about the product?
+  Steep learning curve: Despite being a low-code platform, Warewolf may still require a 
+  learning curve for understanding its features, concepts, and best practices.
